@@ -9,4 +9,4 @@
 - 📚 College Practicals — Python & C++ (Sem 1 & 2)  
 - 📝 To-Do App, Calculator, Weather App (frontend projects)  
 
-📫 Reach me at: **ishdeepsinghhi11654@gmail.com**
+📫 Reach me at: **ishdeepsingh515@gmail.com**
